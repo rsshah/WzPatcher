@@ -15,7 +15,7 @@ namespace Patcher
         public static string patchURL = "http://50.70.53.154/patches/";
         public static string versionFile = "patch";
         public static string appDir = "Server Client/";
-        public static string serverIP = "localhost";
+        public static string serverIP = "127.0.0.1";
         public static int authPort = 8485;
         public static int version = 0;
 
